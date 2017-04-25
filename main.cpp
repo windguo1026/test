@@ -10,8 +10,13 @@ int branch3_func2()
 	return 0;
 }
 
+int branch3_func3()
+{
+	return 0;
+}
+
 int main()
 {
-	printf("branch3 main 3.3 version\n");
+	printf("branch3 main\n");
 	return 0;
 }
