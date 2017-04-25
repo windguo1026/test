@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("main init version\n");
+	printf("main 2th version\n");
 	return 0;
 }
