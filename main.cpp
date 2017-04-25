@@ -10,8 +10,13 @@ int branch3_func2()
 	return 0;
 }
 
+int master_fun1()
+{
+	return 0;
+}
+
 int main()
 {
-	printf("brach main 3.2th version\n");
+	printf("master main\n");
 	return 0;
 }
