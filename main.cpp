@@ -15,6 +15,11 @@ int branch3_func3()
 	return 0;
 }
 
+int master_fun1()
+{
+	return 0;
+}
+
 int main()
 {
 	printf("branch3 main\n");
