@@ -12,6 +12,6 @@ int branch3_func2()
 
 int main()
 {
-	printf("branch3 main 3.3 version\n");
+	printf("brach main 3.2th version\n");
 	return 0;
 }
